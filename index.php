@@ -1,8 +1,3 @@
-GIF89a;
-<!-- GIF89;a -->
-<!-- GIF89;a -->
-
-GIF89a;
 <?php
 
 function feedback404()
